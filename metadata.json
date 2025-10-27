@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Accessibility Report Analyzer with AI",
+  "description": "An interactive tool to create accessibility test reports for web pages, generate PDFs, and get AI-powered analysis and recommendations for improvements using the Gemini API.",
+  "requestFramePermissions": []
+}
